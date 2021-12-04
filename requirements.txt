@@ -1,0 +1,8 @@
+git+https://github.com/Rapptz/discord.py
+git+https://github.com/kiki7000/discord.py-components
+git+https://github.com/rthalley/dnspython
+git+https://github.com/mongodb/motor
+git+https://github.com/tornadoweb/tornado
+git+https://github.com/psf/requests
+git+https://github.com/boto/boto
+async-timeout==3.0.1
